@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2033760002, guid: 5e99434f214126023bd8db55a8296c39, type: 3}
+  m_Name: WorldSettings
+  m_EditorClassIdentifier: 
+  _publishedId: 
+  _playerCharacterController: 1
+  _playerCharacterSpawner: 1
+  _worldScripts: []
+  _layers: []
+  _tags: []
+  _builtInScripts:
+  - {fileID: -974389366465450183, guid: f301225243efa27479ec38fb4dd5ffab, type: 3}
+  - {fileID: -974389366465450183, guid: 88de721fb90843944b4f498ca102c1b3, type: 3}
